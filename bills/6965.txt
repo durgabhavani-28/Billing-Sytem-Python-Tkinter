@@ -1,0 +1,14 @@
+	     Welcome SDB Grocery Retail
+
+Bill Number: 6965
+Customer Name: rani
+Phone Number: 9866596528
+========================================================
+Products		QTY		Price
+ Wheat		2		80
+--------------------------
+ Medical Tax 		Rs. 0.0
+ Grocery Tax 		Rs. 4.0
+ Cold Drinks Tax 		Rs. 0.0
+ Total Bill :		 Rs.84.0
+----------------------------

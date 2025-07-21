@@ -1,0 +1,14 @@
+	     Welcome SDB Grocery Retail
+
+Bill Number: 5791
+Customer Name: bhanu
+Phone Number: 8186949084
+========================================================
+Products		QTY		Price
+ Mask			6		60
+--------------------------
+ Medical Tax 		Rs. 3.0
+ Grocery Tax 		Rs. 0.0
+ Cold Drinks Tax 		Rs. 0.0
+ Total Bill :		 Rs.63.0
+----------------------------

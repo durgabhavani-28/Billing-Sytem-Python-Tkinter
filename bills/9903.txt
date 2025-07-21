@@ -1,0 +1,17 @@
+	     Welcome SDB Grocery Retail
+
+Bill Number: 9903
+Customer Name: bhanu
+Phone Number: 8186949084
+========================================================
+Products		QTY		Price
+ Sanitizer		2		40
+ Mask			3		30
+ Edible Oil		5		750
+ Coke 		8		160
+--------------------------
+ Medical Tax 		Rs. 3.5
+ Grocery Tax 		Rs. 37.5
+ Cold Drinks Tax 		Rs. 16.0
+ Total Bill :		 Rs.1037.0
+----------------------------
