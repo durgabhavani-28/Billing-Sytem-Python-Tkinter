@@ -98,6 +98,3 @@ Export invoices as PDF/Excel.
 ✅ Conclusion
 This Tkinter app provides a simple yet powerful billing solution, suitable for small shops and businesses.
 
-yaml
-Copy
-Edit
